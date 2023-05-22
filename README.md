@@ -2,7 +2,7 @@
 
 ### ¿Quién soy? 
 # Soy un full-stack web developer de 22 años, que actualemente vive en Medellín, Colombia.
-#Desde que estaba en el colegio, por allá en 2015 siempre me interesó mucho el mundo IT y la programación, pero no seguí ese camino por buscar un camino "mejor", así que entré a la Carrera de Quimica Industrial, pero después de varios años decidí ponerle pausa a mi universidad, para entrar a estudiar Programación Web en HENRY.
+# Desde que estaba en el colegio, por allá en 2015 siempre me interesó mucho el mundo IT y la programación, pero no seguí ese camino por buscar un camino "mejor", así que entré a la Carrera de Quimica Industrial, pero después de varios años decidí ponerle pausa a mi universidad, para entrar a estudiar Programación Web en HENRY.
 
 
 ### ¿Qué busco?
