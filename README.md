@@ -18,6 +18,11 @@
 ## Tailwind
 ## Sequelize
 
+# Contactos 
+
+### LinkedIn: https://www.linkedin.com/in/jerson-gonz%C3%A1lez-estrada-884399250/
+### WhatsApp:  https://wa.me/573054601214
+
 
 
 
