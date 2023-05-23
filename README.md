@@ -21,7 +21,7 @@ Software developer with a versatile and promising skill set. Well-versed in mult
 
 <h2>🛠 &nbsp;Languages and Tools :</h2>
 <p align="center">
-| JavaScript | React JS| Redux | Node JS | Express | PostgreSQL | Sequelize | Postman | HTML | CSS | Slack |
+| JavaScript | React JS| Redux | Node JS | Express | PostgreSQL | Sequelize | Postman | HTML | CSS | Slack | Trello | Jira |
 
 
 ---
